@@ -2,7 +2,7 @@
 Artificial Intelegence Projects from University
 
 **This Project was made in collaboration with two other classmates:**<br>
-Pedro Silva 59886<br>
+Pedro Silva <br>
 
 ## About
 AI Projects made in University with python
