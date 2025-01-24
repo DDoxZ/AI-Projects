@@ -1,5 +1,5 @@
 # AI-Projects
-Artificial Intelegence Projects from University
+Artificial Intelligence Projects from University
 
 **This Project was made in collaboration with two other classmates:**<br>
 Pedro Silva <br>
